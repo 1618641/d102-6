@@ -14,6 +14,6 @@ public class GitController {
 
     @GetMapping("init")
     public String init(){
-        return "hello..";
+        return "hello..12345";
     }
 }
